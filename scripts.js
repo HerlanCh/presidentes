@@ -204,7 +204,7 @@ Bolívar es considerado una de las figuras más destacadas de la emancipación a
         "name": "Hugo Banzer Suárez",
         "period": "1971 - 1978 / 1997 - 2001",
         "party": "Acción Democrática Nacionalista (ADN)",
-        "category": ["siglo20", "militares", "dictadores", "civiles"],
+        "category": ["siglo20", "militares", "dictadores"],
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/GralHugoBanzerSuarez.jpg/330px-GralHugoBanzerSuarez.jpg",
         "bio": "Gobernó como dictador en los años 70 y luego fue elegido democráticamente en los años 90.",
         "details": {
