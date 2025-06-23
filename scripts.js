@@ -753,7 +753,7 @@ function renderTimeline(presidents) {
     presidentsToShow.forEach((president, index) => {
         const years = president.period.split('–');
         const startYear = years[0].trim();
-        const endYear = years[1] ? years[1].trim() : 'Presente';
+        const endYear = years[1] ? years[1].trim() : 'Actual';
         
         html += `
         <div class="timeline-item ${index % 2 === 0 ? 'left' : 'right'}" onclick="openModal(${president.id})">
