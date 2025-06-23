@@ -765,8 +765,6 @@ function renderTimeline(presidents) {
                     </div>
                     <div class="timeline-info">
                         <h3>${president.name}</h3>
-                        <span class="party-badge">${president.party}</span>
-                        <p>${president.bio}</p>
                     </div>
                 </div>
             </div>
