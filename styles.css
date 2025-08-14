@@ -161,7 +161,7 @@
       margin-top: 2rem;
   }
 
-  .president-card {
+  .presidente-card {
       background: white;
       border-radius: 10px;
       overflow: hidden;
@@ -170,12 +170,12 @@
       cursor: pointer;
   }
 
-  .president-card:hover {
+  .presidente-card:hover {
       transform: translateY(-5px);
       box-shadow: 0 8px 16px rgba(0, 0, 0, 0.12);
   }
 
-  .president-image {
+  .presidente-imagen {
       height: 200px;
       overflow: hidden;
       position: relative;
@@ -185,7 +185,7 @@
 
   }
 
-  .president-image img {
+  .presidente-imagen img {
       width: 85%;
       height: 100%;
       object-fit: cover;
@@ -193,11 +193,11 @@
       transition: transform 0.5s;
   }
 
-  .president-card:hover .president-image img {
+  .presidente-card:hover .presidente-imagen img {
       transform: scale(1.05);
   }
 
-  .president-period {
+  .presidente-periodo {
       position: absolute;
       bottom: 0;
       left: 0;
@@ -207,18 +207,18 @@
       font-size: 0.9rem;
   }
 
-  .president-info {
+  .presidente-info {
       padding: 1.5rem;
   }
 
-  .president-name {
+  .presidente-nombre {
       font-size: 1.3rem;
       margin-bottom: 0.5rem;
       color: var(--primary);
       font-weight: 600;
   }
 
-  .president-party {
+  .presidente-partido {
       display: inline-block;
       padding: 0.2rem 0.8rem;
       background: var(--secondary);
@@ -228,7 +228,7 @@
       margin-bottom: 1rem;
   }
 
-  .president-bio {
+  .presidente-bio {
       color: var(--gray);
       font-size: 0.95rem;
       margin-bottom: 1rem;
@@ -252,7 +252,7 @@
       transition: transform 0.3s;
   }
 
-  .president-card:hover .read-more i {
+  .presidente-card:hover .read-more i {
       transform: translateX(3px);
   }
 
@@ -413,13 +413,13 @@
       padding: 2rem;
   }
 
-  .modal-image {
+  .modal-imagen {
       border-radius: 8px;
       overflow: hidden;
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   }
 
-  .modal-image img {
+  .modal-imagen img {
       width: 100%;
       height: auto;
       display: block;
@@ -430,7 +430,7 @@
       margin-bottom: 1rem;
   }
 
-  .president-details {
+  .presidente-detalle {
       margin-bottom: 1.5rem;
   }
 
@@ -531,7 +531,7 @@
       align-items: center;
   }
 
-  .timeline-image {
+  .timeline-imagen {
       width: 80px;
       height: 80px;
       border-radius: 50%;
@@ -540,7 +540,7 @@
       flex-shrink: 0;
   }
 
-  .timeline-image img {
+  .timeline-imagen img {
       width: 100%;
       height: 100%;
       object-fit: cover;
