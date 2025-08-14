@@ -805,7 +805,7 @@ const presidentsData = [
         "nombre": "Hugo Banzer Suárez",
         "periodo": "1971–1978 / 2001",
         "partido": "Partido Nacionalista Revolucionario / Militar",
-        "categoria": ["siglo20", "militares", "dictadura"],
+        "categoria": ["siglo20","siglo21", "militares", "dictadura"],
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/GralHugoBanzerSuarez_%28CROPPED%29.jpg/250px-GralHugoBanzerSuarez_%28CROPPED%29.jpg",
         "bio": "Militar que gobernó Bolivia como dictador durante casi 7 años.",
         "detalle": {
@@ -1386,3 +1386,4 @@ window.openModal = openModal;
 window.closeModal = closeModal;
 window.changePage = changePage;
 window.selectSuggestion = selectSuggestion;
+
